@@ -1,0 +1,54 @@
+#logo {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+#logo img {
+    position: absolute;
+    top: 36%;
+    left: 37%;
+
+    width:190px; 
+    height:190px;
+    margin: -100px 0 0 -100px;
+}
+
+#logo h1 {
+    position: absolute;
+    font-weight: 700;
+
+    top: 39%;
+    left: 52%;
+
+    font-size: 65px;
+    margin: -100px 0 0 -100px;
+}
+
+#logo h2 {
+    position: absolute;
+    font-weight:300;
+
+    top: 50%;
+    left: 52%;
+
+    font-size: 45px;
+    margin: -100px 0 0 -100px;
+}
+
+
+#daftEngineView button {
+    position: absolute;
+    background-color:rgba(255, 255, 255, 0);
+
+    background-image: url("./srcs/DaftEngine_Logo.png");
+    background-position:auto;
+    background-size: 130px;
+
+    border:0;
+
+    top: 73%;
+    left: 53%;
+
+    width:130px; 
+    height:130px;
+    margin: -100px 0 0 -100px;
+}
